@@ -62,10 +62,10 @@ BOT WORKING PROPERLY """
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 > {} 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
+ Dᴀᴛᴇ : <code>{}</code>
+ Tɪᴍᴇ : <code>{}</code>
+ Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
 Bʏ @Nandu2129</b>"""
         
@@ -109,10 +109,10 @@ User - {}"""
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
-🍿 Title: {title}
-🎃 Genres: {genres}
-📆 Year: {release_date}
-⭐ Rating: {rating} / 10</b>
+ Title: {title}
+ Genres: {genres}
+ Year: {release_date}
+ Rating: {rating} / 10</b>
 """
 
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Jisshu_Originals">𝙅𝙞𝙨𝙨𝙝𝙪 𝙊𝙧𝙞𝙜𝙞𝙣𝙖𝙡𝙨</a>」</b>"""
@@ -197,17 +197,17 @@ User - {}"""
 
     VERIFIED_LOG_TEXT = """<b><u>☄ ᴜsᴇʀ ᴠᴇʀɪꜰɪᴇᴅ sᴜᴄᴄᴇssꜰᴜʟʟʏ ☄</u>
 
-⚡️ ɴᴀᴍᴇ:- {} [ <code>{}</code> ] 
-📆 ᴅᴀᴛᴇ:- <code>{} </code></b>
+ ɴᴀᴍᴇ:- {} [ <code>{}</code> ] 
+ ᴅᴀᴛᴇ:- <code>{} </code></b>
 
 #verified_{}_completed"""
 
 
     MOVIES_UPDATE_TXT = """<b>#𝑵𝒆𝒘_𝑭𝒊𝒍𝒆_𝑨𝒅𝒅𝒆𝒅 ✅
-**🍿 Title:** {title}
-**🎃 Genres:** {genres}
-**📆 Year:** {year}
-**⭐ Rating:** {rating} / 10
+** Title:** {title}
+** Genres:** {genres}
+** Year:** {year}
+** Rating:** {rating} / 10
 </b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},

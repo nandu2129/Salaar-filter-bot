@@ -57,7 +57,7 @@ class script(object):
 
     LOGO = "https://i.ibb.co/5WYQ7YzK/file-137.jpg"
 
-BOT WORKING PROPERLY 🔥"""
+BOT WORKING PROPERLY """
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !

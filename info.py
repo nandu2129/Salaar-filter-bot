@@ -13,14 +13,14 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('25210379', ''))
-API_HASH = environ.get('2f43e4bccc419e3b7e28e3219bb1d68c', '')
-BOT_TOKEN = environ.get('8140111369:AAEUtglm21w9z59qWi_Kq1CduUn3FmsI6qc', '')
+API_ID = int(environ.get(''25210379''))
+API_HASH = environ.get(''2f43e4bccc419e3b7e28e3219bb1d68c'')
+BOT_TOKEN = environ.get(''8140111369:AAEUtglm21w9z59qWi_Kq1CduUn3FmsI6qc'')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Nandu2129") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('-1002452222257', ''))
+LOG_CHANNEL = int(environ.get(''-1002452222257''))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/MovieSearchGroup4')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('https://t.me/NaChannel4', '').split()]
 #---------------------------------------------------------------
